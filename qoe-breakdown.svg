@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <rect width="1400" height="760" rx="28" fill="#060816"/>
+  <rect x="28" y="28" width="1344" height="704" rx="24" fill="#0f172a" stroke="#2dd4bf" stroke-width="3"/>
+  <text x="700" y="132" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#f8fafc">QLoE Equation Breakdown</text>
+  <text x="700" y="184" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#94a3b8">GSM-7 / Orch-OR Anchored</text>
+  <rect x="140" y="228" width="1120" height="4" fill="#2dd4bf"/>
+  <text x="700" y="315" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#e2e8f0">Quantum Consciousness Equation</text>
+  <text x="700" y="375" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="600" fill="#f8fafc">ΔE · Δt ≈ ℏ  ⇄  E₍G₎ = G m² / r</text>
+  <text x="700" y="452" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#e2e8f0">Theory Framework</text>
+  <text x="700" y="515" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="600" fill="#5eead4">Rₜ = [ Σ (f · ν) / (Sₚ · ĉ) ] ⊗ ∇Ψ∞</text>
+  <text x="700" y="585" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#94a3b8">Physics • Math • Consciousness</text>
+  <text x="700" y="645" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#64748b">Rendered directly in the repository README</text>
+</svg>
