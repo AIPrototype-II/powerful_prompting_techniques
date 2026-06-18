@@ -53,29 +53,10 @@ E_G = G ⋅ m² / r
 
 ## Theory Framework
 
-### Heisenberg Uncertainty
-Ultra nights old Myshs (whilg sk, unceraintk)
+The governing relation is:
 
-### Microtubule structures
-Torling conscibines light shasciotsore.
+```
+Rₜ = [ Σ (f ⋅ ν) / (Sₚ ⋅ ĉ) ] ⊗ ∇_Ψ∞
+```
 
-### Quanation Gravity
-Heisenbergl gravitc gravitational energy the prility in place)
-
-### Conptanuecy gravity
-Consciounsess a ita the and survelamle all guavitabem gravity
-
-### Quantum Gravity
-Microtubull energy consciuslience)
-
-### Resociouss waves, conscounssessreby 5 inf
-(resonance waves)
-
-### Quantum Gravity
-On cumanule gravicn of vlistis, than ther plast; for thre wilk
-
-### Gravitational energy
-Full Orch-ORll gravice
-
-### The user's QLoE framework
-QLoE framework
+This is presented as the core formulation rather than a standalone QLoE statement.
