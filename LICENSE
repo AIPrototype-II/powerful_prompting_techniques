@@ -1,42 +1,95 @@
-COMMERCIAL LICENSE
+COMMERCIAL SOFTWARE LICENSE AGREEMENT
 
 PROPRIETARY AND CONFIDENTIAL
 
-This Commercial License ("License") is entered into as of the date of acceptance by the licensee ("Licensee") with the copyright holder ("Licensor").
+This Commercial Software License Agreement ("License") is entered into as of the date of acceptance by the licensee ("Licensee") with the copyright holder and software provider ("Licensor").
 
-1. GRANT OF LICENSE
-Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for Licensee's internal business purposes, subject to the terms and conditions of this License.
+1. PRODUCT DESCRIPTION
+The Software consists of advanced prompting techniques and methodologies designed to significantly amplify and enhance the performance, capabilities, and output quality of Large Language Models (LLMs). This is proprietary technology that provides substantial value through improved LLM optimization.
 
-2. RESTRICTIONS
-Licensee shall not, without prior written consent from Licensor:
-   a) Copy, modify, or create derivative works of the Software;
-   b) Distribute, sell, lease, or transfer the Software to any third party;
-   c) Reverse engineer, decompile, or disassemble the Software;
-   d) Remove or alter any proprietary notices or labels;
-   e) Use the Software for any commercial purpose other than as expressly authorized.
+2. GRANT OF LICENSE
+Licensor grants Licensee a non-exclusive, non-transferable, revocable license to use the Software solely for the purposes specified in the applicable purchase agreement or licensing terms. The Software may be used to:
+   a) Integrate with Licensee's own LLM-based applications and services;
+   b) Enhance the performance of LLMs within Licensee's organization;
+   c) Deploy in production environments as permitted by the purchase agreement.
 
-3. OWNERSHIP
-The Software and all copies thereof are proprietary to Licensor. All rights not expressly granted are reserved by Licensor. Licensee acknowledges that no title to the intellectual property in the Software is transferred to Licensee.
+3. LICENSE RESTRICTIONS
+Licensee shall NOT, without prior written consent from Licensor:
+   a) Copy, reproduce, or duplicate the Software;
+   b) Modify, adapt, translate, or create derivative works;
+   c) Distribute, sell, lease, sublicense, or transfer the Software to any third party;
+   d) Reverse engineer, decompile, disassemble, or attempt to derive the underlying techniques;
+   e) Publicly disclose the Software's methods, algorithms, or optimization techniques;
+   f) Remove, alter, or obscure any proprietary notices, labels, or copyright information;
+   g) Use the Software for competitive analysis, benchmarking against Licensor, or development of competing products;
+   h) Share access credentials or licenses with unauthorized users.
 
-4. PAYMENT AND FEES
-Licensee shall pay Licensor the license fees as agreed upon in writing. All fees are exclusive of applicable taxes and are non-refundable.
+4. INTELLECTUAL PROPERTY OWNERSHIP
+The Software and all related intellectual property rights, including but not limited to source code, algorithms, techniques, methodologies, documentation, and improvements are exclusively owned by Licensor. Licensee acknowledges that no title to the intellectual property is transferred under this License. Licensee grants Licensor the right to use feedback and suggestions for improvement without compensation.
 
-5. CONFIDENTIALITY
-Licensee shall maintain the confidentiality of the Software and shall not disclose it to any third party without Licensor's prior written consent.
+5. PAYMENT TERMS
+   a) License Fee: Licensee shall pay Licensor the license fee as specified in the Order Form or Purchase Agreement.
+   b) Payment Method: Payment must be made in full before license activation.
+   c) Non-Refundable: All fees are non-refundable except as required by law.
+   d) Taxes: Licensee is responsible for all applicable taxes, duties, and governmental charges.
+   e) Annual Renewal: Certain licenses may require annual renewal fees for continued use and updates.
 
-6. WARRANTY DISCLAIMER
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+6. CONFIDENTIALITY & TRADE SECRETS
+Licensee acknowledges that the Software contains valuable trade secrets and proprietary information. Licensee shall:
+   a) Maintain strict confidentiality of the Software;
+   b) Limit access to authorized personnel only;
+   c) Use reasonable security measures to protect the Software;
+   d) Not disclose the Software's techniques or contents to any third party without written consent.
 
-7. LIMITATION OF LIABILITY
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS LICENSE OR THE USE OF THE SOFTWARE.
+7. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE SOFTWARE WILL ACHIEVE SPECIFIC PERFORMANCE RESULTS.
 
-8. TERM AND TERMINATION
-This License is effective until terminated. Licensor may terminate this License immediately upon written notice if Licensee breaches any material term. Upon termination, Licensee shall immediately cease use and return or destroy all copies of the Software.
+LICENSOR DOES NOT GUARANTEE SPECIFIC LLM PERFORMANCE IMPROVEMENTS OR RESULTS, AS OUTCOMES MAY VARY BASED ON IMPLEMENTATION AND USAGE CONTEXT.
 
-9. GOVERNING LAW
-This License shall be governed by and construed in accordance with applicable law, without regard to its conflict of law provisions.
+8. LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR:
+   a) Any indirect, incidental, special, consequential, or punitive damages;
+   b) Loss of profits, revenue, data, or business opportunities;
+   c) Damages arising from use or inability to use the Software;
+   d) Third-party claims related to the Software;
 
-10. ENTIRE AGREEMENT
-This License constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, and agreements.
+LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY LICENSEE FOR THE LICENSE IN THE PRECEDING 12 MONTHS.
 
-For licensing inquiries, contact: [Licensee Contact Information]
+9. SUPPORT & UPDATES
+   a) Support: Technical support is available as specified in the Purchase Agreement.
+   b) Updates: Licensor may provide updates or improvements at its discretion.
+   c) Bug Fixes: Critical security and functionality patches will be provided during the license term.
+
+10. TERM & TERMINATION
+   a) Term: This License is effective for the period specified in the Purchase Agreement.
+   b) Termination for Cause: Licensor may immediately terminate this License if Licensee materially breaches any term and fails to cure within 30 days of written notice.
+   c) Effect of Termination: Upon termination, Licensee shall immediately cease use, delete all copies, and certify destruction of the Software.
+   d) Survival: Sections 3, 4, 6, 7, and 8 survive termination.
+
+11. AUDIT RIGHTS
+Licensor reserves the right to audit Licensee's use of the Software to ensure compliance with this License. Licensee shall provide reasonable cooperation for such audits.
+
+12. RESTRICTIONS ON USE CASES
+This License does NOT permit:
+   a) Use in competing LLM enhancement products or services;
+   b) Incorporation into open-source projects;
+   c) Use by AI/ML companies or LLM developers without explicit written agreement;
+   d) Commercial sublicensing or resale of the Software.
+
+13. DATA & ANALYTICS
+Licensor may collect anonymized usage data and analytics to improve the Software, provided such collection complies with applicable privacy laws. Licensee's confidential data shall not be collected.
+
+14. GOVERNING LAW & DISPUTE RESOLUTION
+This License shall be governed by applicable law. Any disputes shall be resolved through binding arbitration or litigation as permitted by applicable jurisdiction.
+
+15. ENTIRE AGREEMENT
+This License constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, and agreements, whether written or oral.
+
+---
+
+FOR LICENSING, COMMERCIAL INQUIRIES, OR CUSTOM AGREEMENTS:
+Contact: [Your Contact Information]
+Email: [Your Email]
+Website: [Your Website]
+
+All Rights Reserved. Copyright © 2026
