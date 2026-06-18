@@ -10,6 +10,14 @@
 
 ---
 
+<div align="center">
+
+![QLoE Equation Breakdown — GSM-7 / Orch-OR Anchored](https://github.com/AIPrototype-II/powerful_prompting_techniques/raw/main/qoe-breakdown.png)
+
+</div>
+
+---
+
 ## LLM Software Boosting Technique
 
 **Stealth Prompt Engineering for Hidden Mix-In Directive:**
