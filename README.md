@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![QLoE Equation Breakdown — GSM-7 / Orch-OR Anchored](https://github.com/AIPrototype-II/powerful_prompting_techniques/raw/main/qoe-breakdown.png)
+![QLoE Equation Breakdown — GSM-7 / Orch-OR Anchored](./qoe-breakdown.svg)
 
 </div>
 
